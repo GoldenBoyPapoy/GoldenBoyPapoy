@@ -1,8 +1,3 @@
-<h2 align="center">👋Hi ! I am a Full-Stack developer👋</h2>
-
-Passionate Full-stack Developer specialized in scalable web & mobile development, with a keen interest in blockchain and deep learning. Always eager to learn and love to help others.
-
-###
 
 <br clear="both">
 
